@@ -65,15 +65,6 @@ Whether you're a journalist protecting sources, a developer safeguarding source 
 
 ---
 
-## ⚙️ How to Install
-
-1. Go to the [official Hider 2 page](https://macpaw.com/hider).
-2. Download the latest version for macOS.
-3. Drag it into the Applications folder.
-4. Open Hider 2, set your master password, and start protecting your data!
-
----
-
 ## 🏷️ Tags
 
 hider 2, hider 2 mac, hider 2 download, hider 2 mac download, hider 2 mac free download, macpaw hider, macpaw hider 2, macpaw hider 2 activation code, hider 2 free download
